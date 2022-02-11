@@ -1,0 +1,222 @@
+/*    &display=swap  (for fonts) */
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Festive & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Oswald:wght@400;700 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Nanum+Gothic+Coding:wght@700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@font-face {
+	font-family: "SFProDisplay";
+	src: url("../fonts/SFProDisplay-Light.woff2") format("woff2"), url("../fonts/SFProDisplay-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "SFProDisplay";
+	src: url("../fonts/SFProDisplay-Regular.woff2") format("woff2"), url("../fonts/SFProDisplay-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Italic.woff2") format("woff2"), url("../fonts/Larsseit-Italic.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+body{
+font-family: "Lato", sans-serif;
+}
+h2{
+		font-family: "Larsseit", sans-serif;
+	font-weight: 700;
+	font-size: 35px;
+	text-decoration: underline;
+}
+h4{
+	font-family:"Oswald", sans-serif;
+font-weight: 700;
+}
+img{
+	width: 60%;
+}
+span{
+	font-family: "Roboto", sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	color:rgba(28, 11, 104, 0.932);
+	text-decoration: underline;
+}
+.wrapper {
+}
+.container {
+}
+.header {
+}
+.image {
+}
+.firsttitle{
+	font-family: "Roboto", sans-serif;
+	font-weight: 900;
+	font-size: 40px;
+text-transform: uppercase;
+color:rgba(28, 117, 196, 0.836);
+text-align: center;
+}
+.subtitle {
+font-family: "Larsseit", sans-serif;
+font-weight: 500;
+font-size: 30px;
+}
+.menu {
+}
+.menu-list {
+		font-family: "PT Serif", serif;
+		font-weight: 700;
+		letter-spacing: 10px;
+}
+.coments {
+font-family: "Larsseit", sans-serif;
+font-style: italic;
+text-transform: capitalize;
+text-indent: 40px;
+white-space: nowrap;
+}
+.main {
+}
+.content {
+}
+.what {
+}
+.what-paragraph {
+	font-family: "Oswald", sans-serif;
+	text-transform: capitalize;
+}
+.what-image {
+}
+.why {
+}
+.why-paragraph {
+	font-family: "Festive", cursive;
+	font-size: 20px;
+}
+.why-list {
+	font-family: "Roboto", sans-serif;
+	font-style: italic;
+	color: red;
+	text-shadow: 1px 1px 1px #000;
+	letter-spacing: 2px;
+}
+.why-sublist {
+	font-family: "Nanum Gothic Coding", monospace;
+	font-weight: 700;
+}
+.calories {
+}
+.calories-list {
+	font-family: "SFProDisplay";
+	font-weight: 300;
+	word-spacing: 10px;
+	text-shadow: 5px 1px 1px rgba(134, 25, 25, 0.692);
+}
+.how {
+}
+.how-paragraph {
+	font-family: "SFProDisplay";
+	line-height: 1.3;
+}
+.harm {
+}
+.harm-paragraph {
+	word-spacing: 5px;
+	font-style: oblique;
+}
+.storage {
+}
+.storage-paragraph {
+	font-family: "RocknRoll One", sans-serif;
+}
+.footer {
+}
+
+
+
+
+
+.wrapper {
+}
+.container {
+}
+.header {
+}
+.main {
+}
+.content {
+}
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+}
+.image {
+}
+.text {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+}
+.second{
+	font-size: 16px;
+	line-height: 1.6;
+}
+.list {
+}
+.footer {
+}
+
+
